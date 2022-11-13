@@ -1,8 +1,8 @@
-cucumber\runners\TestNGRunner.class
 cucumber\stepDefinitions\LoginPageSD.class
-cucumber\stepDefinitions\ProfilePageSD.class
 cucumber\stepDefinitions\ApplicationGlobalSD.class
-cucumber\stepDefinitions\HomePageSD.class
 cucumber\stepDefinitions\ProductsPageSD.class
 cucumber\stepDefinitions\CommonSD.class
+cucumber\runners\TestNGRunner.class
+cucumber\stepDefinitions\ProfilePageSD.class
+cucumber\stepDefinitions\HomePageSD.class
 cucumber\stepDefinitions\Hooks.class

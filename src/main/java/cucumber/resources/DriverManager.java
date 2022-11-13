@@ -13,11 +13,19 @@ import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
-
+/**
+ * Driver Manager
+ * @author abimu
+ *
+ */
 public class DriverManager extends PropertyReader {
 
 	public WebDriver driver;
-
+	/**
+	 * Method to invoke the browser
+	 * @return
+	 * @throws IOException
+	 */
 	private WebDriver invokeBrowser() throws IOException {
 		String browserProp = readPropertyValue("global", "Browser");
 		String browserMaven= System.getProperty("browser");
@@ -61,7 +69,12 @@ public class DriverManager extends PropertyReader {
 		return driver;
 
 	}
-
+	
+	/**
+	 * Launch application method
+	 * @return
+	 * @throws IOException
+	 */
 	public WebDriver launchApplication() throws IOException {
 		String environmentProp = readPropertyValue("global", "Environment");
 		String environmentMvn= System.getProperty("environment");

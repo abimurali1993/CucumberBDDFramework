@@ -12,6 +12,11 @@ import cucumber.commons.BaseActions;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 
+/**
+ * MyProfile page Page File
+ * @author abimu
+ *
+ */
 public class ProfilePage extends BaseActions {
 
 	WebDriver driver;

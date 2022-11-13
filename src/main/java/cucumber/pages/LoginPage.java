@@ -14,6 +14,11 @@ import cucumber.commons.BaseActions;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 
+/**
+ * LoginPage Page File
+ * @author abimu
+ *
+ */
 public class LoginPage extends BaseActions {
 
 	WebDriver driver;

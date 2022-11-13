@@ -6,6 +6,12 @@ import org.openqa.selenium.WebDriver;
 
 import cucumber.commons.BaseActions;
 
+/**
+ * Application Global Page File
+ * @author abimu
+ *
+ */
+
 public class ApplicationGlobal extends BaseActions {
 
 	WebDriver driver;

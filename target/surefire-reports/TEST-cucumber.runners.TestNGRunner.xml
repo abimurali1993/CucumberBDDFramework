@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1" failures="0" name="cucumber.runners.TestNGRunner" time="14.343" errors="0" skipped="0">
+<testsuite tests="1" failures="0" name="cucumber.runners.TestNGRunner" time="15.504" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="java.vm.version" value="12.0.2+10"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-12.0.2\bin"/>
-    <property name="maven.multiModuleProjectDirectory" value="C:\Users\abimu\selenium-learning\CucumberBDDFramework"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\abimu\Documents\GitHub Projects\CucumberBDDFramework"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="java.vendor.url" value="https://java.oracle.com/"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
@@ -15,7 +15,7 @@
     <property name="user.country" value="IN"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="C:\Users\abimu\selenium-learning\CucumberBDDFramework"/>
+    <property name="user.dir" value="C:\Users\abimu\Documents\GitHub Projects\CucumberBDDFramework"/>
     <property name="java.vm.compressedOopsMode" value="32-bit"/>
     <property name="java.runtime.version" value="12.0.2+10"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
@@ -26,7 +26,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 10"/>
-    <property name="classworlds.conf" value="C:\Users\abimu\selenium-learning\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf2743915873506068435.tmp"/>
+    <property name="classworlds.conf" value="C:\Users\abimu\GIT_CucumberBDDFramework\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf259755215327717336.tmp"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
     <property name="java.library.path" value="C:\Program Files\Java\jdk-12.0.2\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jdk-12.0.2/bin/server;C:/Program Files/Java/jdk-12.0.2/bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\Java\jdk-12.0.2\bin;C:\Users\abimu\Anaconda3;C:\Users\abimu\Anaconda3\Library\mingw-w64\bin;C:\Users\abimu\Anaconda3\Library\usr\bin;C:\Users\abimu\Anaconda3\Library\bin;C:\Users\abimu\Anaconda3\Scripts;C:\Users\abimu\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jdk-17.0.5\bin;;C:\WINDOWS\system32;;."/>
     <property name="jdk.debug" value="release"/>
@@ -50,7 +50,7 @@
     <property name="java.vm.info" value="mixed mode, sharing"/>
     <property name="java.version" value="12.0.2"/>
     <property name="java.vendor" value="Oracle Corporation"/>
-    <property name="maven.home" value="C:\Users\abimu\selenium-learning\CucumberBDDFramework\EMBEDDED"/>
+    <property name="maven.home" value="C:\Users\abimu\Documents\GitHub Projects\CucumberBDDFramework\EMBEDDED"/>
     <property name="file.separator" value="\"/>
     <property name="java.version.date" value="2019-07-16"/>
     <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
@@ -59,5 +59,5 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="cucumber.runners.TestNGRunner" name="runScenario" time="14.343"/>
+  <testcase classname="cucumber.runners.TestNGRunner" name="runScenario" time="15.504"/>
 </testsuite>

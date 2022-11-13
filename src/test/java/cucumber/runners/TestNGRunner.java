@@ -8,7 +8,11 @@ import io.cucumber.testng.CucumberOptions;
 @CucumberOptions(features = "src/test/java/cucumber/features",
 glue="cucumber.stepDefinitions", tags= "@Homepage", monochrome = true, dryRun = false, plugin = {"html:target/cucmberReport.html","json:target/cucmberReport.json",
 		"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"})
-
+/**
+ * Test RUnner class
+ * @author abimu
+ *
+ */
 public class TestNGRunner extends AbstractTestNGCucumberTests {
 	
 	/*

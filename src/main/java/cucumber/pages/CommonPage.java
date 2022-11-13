@@ -7,6 +7,11 @@ import org.openqa.selenium.support.PageFactory;
 
 import cucumber.commons.BaseActions;
 
+/**
+ * Common Page File
+ * @author abimu
+ *
+ */
 public class CommonPage extends BaseActions {
 
 	WebDriver driver;

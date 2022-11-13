@@ -13,6 +13,11 @@ import cucumber.commons.BaseActions;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 
+/**
+ * ProductsPage Page File
+ * @author abimu
+ *
+ */
 public class ProductsPage extends BaseActions {
 
 	WebDriver driver;

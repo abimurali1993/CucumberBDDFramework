@@ -8,6 +8,11 @@ import org.openqa.selenium.support.PageFactory;
 
 import cucumber.commons.BaseActions;
 
+/**
+ * Homepage Page File
+ * @author abimu
+ *
+ */
 public class HomePage extends BaseActions {
 
 	WebDriver driver;
